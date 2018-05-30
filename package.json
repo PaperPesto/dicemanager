@@ -1,6 +1,6 @@
 {
   "name": "dicemanager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exercise node.js application for rolling dices and simple statistics. Useful for git and npm initialization projects.",
   "main": "diceManager.js",
   "scripts": {
