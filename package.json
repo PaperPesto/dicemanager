@@ -2,7 +2,7 @@
   "name": "dicemanager",
   "version": "1.0.0",
   "description": "Exercise node.js application for rolling dices and simple statistics. Useful for git and npm initialization projects.",
-  "main": "app.js",
+  "main": "diceManager.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
