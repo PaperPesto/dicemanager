@@ -1,6 +1,6 @@
 {
   "name": "dicemanager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Exercise node.js application for rolling dices and simple statistics. Useful for git and npm initialization projects.",
   "main": "diceManager.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/PaperPesto/dicemanager#readme",
   "dependencies": {
-    "yargs": "^11.0.0"
+    "yargs": "^18.0.0"
   }
 }
